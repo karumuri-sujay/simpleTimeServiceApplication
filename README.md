@@ -56,4 +56,7 @@ terraform apply
 ```
 terraform destroy
 ```
-
+## Upcoming plans for this project
+* Include a CI/CD pipeline using GitHub Actions to provision infrastructure using Terraform.
+* Also create a CI/CD pipeline to deploy the image and upload it to the Docker Hub.
+* Increase the scope of the application by adding new features such as user-friendly UI page etc.
